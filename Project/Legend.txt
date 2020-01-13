@@ -1,0 +1,8 @@
+0-19 coords
+20 speed
+21 angle of velocity
+22 index 
+23 edge_l
+24 relative_angle
+25 starting_X
+26 starting_Y
